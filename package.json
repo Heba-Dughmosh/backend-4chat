@@ -2,10 +2,10 @@
   "name": "server-chat-app",
   "version": "1.0.0",
   "description": "",
-  "main": "Server.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "npx nodemon server.js"
+    "start": "npx nodemon index.js"
   },
   "repository": {
     "type": "git",
